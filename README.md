@@ -1,5 +1,4 @@
 # ShopNova RFM Customer Segmentation & PostgreSQL Data Engineering
-
 ## 🚀 Project Overview
 The **ShopNova RFM Customer Segmentation** project bridges the gap between raw e-commerce data and actionable business strategy. Moving beyond standard visualization tools, this project focuses on backend database engineering, data modeling, and advanced SQL transformations in **PostgreSQL** to segment customers based on Recency, Frequency, and Monetary (RFM) behavior.
 
